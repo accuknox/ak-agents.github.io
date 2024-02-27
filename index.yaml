@@ -9,6 +9,6 @@ entries:
     name: accuknox-agents
     type: application
     urls:
-    - http://help.accuknox.com/agents.github.io/accuknox-agents-v0.2.11.tgz
+    - http://agents.accuknox.com/accuknox-agents-v0.2.11.tgz
     version: v0.2.11
 generated: "2024-02-26T23:22:08.765949371+05:30"
