@@ -3,22 +3,22 @@ entries:
   accuknox-agents:
   - apiVersion: v2
     appVersion: v0.2.11
-    created: "2024-09-05T23:35:06.0250823+05:30"
+    created: "2024-09-06T00:09:42.3363795+05:30"
     description: A Helm chart for Accuknox agents
     digest: d13c9610d4f45222017979bd89d2794be059803eb308e006855149a569990013
     name: accuknox-agents
     type: application
     urls:
-    - https://accuknox.github.io/ak-agents.github.io/accuknox-agents-v0.2.11.tgz
+    - https://agents.accuknox.com/accuknox-agents-v0.2.11.tgz
     version: v0.2.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-09-05T23:35:06.0239581+05:30"
+    created: "2024-09-06T00:09:42.3278475+05:30"
     description: A Helm chart for Accuknox agents
     digest: fcca33736fe1259bceb83c1d5ad1bd74a503feb25cfd6f8fea68bcb8cdde8352
     name: accuknox-agents
     type: application
     urls:
-    - https://accuknox.github.io/ak-agents.github.io/accuknox-agents-0.1.0.tgz
+    - https://agents.accuknox.com/accuknox-agents-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-05T23:35:06.0139924+05:30"
+generated: "2024-09-06T00:09:42.3222602+05:30"
