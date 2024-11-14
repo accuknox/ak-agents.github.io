@@ -2,18 +2,8 @@ apiVersion: v1
 entries:
   accuknox-agents:
   - apiVersion: v2
-    appVersion: v0.7.7-patch
-    created: "2024-11-12T14:42:55.244078315+05:30"
-    description: A Helm chart for Accuknox agents
-    digest: 7916db52ca69e8cc17c64a2d78e9f5ddf7d4223d5ca3ea9686fc39fa68401962
-    name: accuknox-agents
-    type: application
-    urls:
-    - https://agents.accuknox.com/accuknox-agents-v0.7.7-patch.tgz
-    version: v0.7.7-patch
-  - apiVersion: v2
     appVersion: v0.8.0
-    created: "2024-11-12T12:17:35.215131289+05:30"
+    created: "2024-11-14T05:21:43.444654802Z"
     description: A Helm chart for Accuknox agents
     digest: 7ca4329ad69852ecd415890013af47bc20983d64a6547a623b933c7cc635e690
     name: accuknox-agents
@@ -22,8 +12,18 @@ entries:
     - https://agents.accuknox.com/accuknox-agents-v0.8.0.tgz
     version: v0.8.0
   - apiVersion: v2
+    appVersion: v0.7.9
+    created: "2024-11-14T05:21:43.443281065Z"
+    description: A Helm chart for Accuknox agents
+    digest: 3d337dd245caf532168f09ce88690dfc749744459cba4fbc9afc5db3c0907e90
+    name: accuknox-agents
+    type: application
+    urls:
+    - https://agents.accuknox.com/accuknox-agents-v0.7.9.tgz
+    version: v0.7.9
+  - apiVersion: v2
     appVersion: v0.7.7
-    created: "2024-11-12T11:29:38.908365169+05:30"
+    created: "2024-11-14T05:21:43.441915453Z"
     description: A Helm chart for Accuknox agents
     digest: a94d78fc91a67b7088f416103f954832d92d5c5b61cf2b30647312a3eee775e6
     name: accuknox-agents
@@ -31,5 +31,14 @@ entries:
     urls:
     - https://agents.accuknox.com/accuknox-agents-v0.7.7.tgz
     version: v0.7.7
-generated: "2024-11-12T11:29:38.904074902+05:30"
-
+  - apiVersion: v2
+    appVersion: v0.7.7-patch
+    created: "2024-11-14T05:21:43.440567826Z"
+    description: A Helm chart for Accuknox agents
+    digest: 7916db52ca69e8cc17c64a2d78e9f5ddf7d4223d5ca3ea9686fc39fa68401962
+    name: accuknox-agents
+    type: application
+    urls:
+    - https://agents.accuknox.com/accuknox-agents-v0.7.7-patch.tgz
+    version: v0.7.7-patch
+generated: "2024-11-14T05:21:43.439171126Z"
