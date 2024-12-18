@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   accuknox-agents:
   - apiVersion: v2
+    appVersion: v0.8.3
+    created: "2024-12-18T10:29:22.988695139Z"
+    description: A Helm chart for Accuknox agents
+    digest: ea1ff11b70d539ffa1579b00ec41cba0b1fb9a9f20ba6835ff722465fe7afbd6
+    name: accuknox-agents
+    type: application
+    urls:
+    - https://agents.accuknox.com/accuknox-agents-v0.8.3.tgz
+    version: v0.8.3
+  - apiVersion: v2
     appVersion: v0.8.2
-    created: "2024-12-17T10:35:05.231687943Z"
+    created: "2024-12-18T10:29:22.987057229Z"
     description: A Helm chart for Accuknox agents
     digest: 886057e398b1bdb8716a3fd6e04bdde2e5e4c3f20a32912330bb64d45ef310d1
     name: accuknox-agents
@@ -13,7 +23,7 @@ entries:
     version: v0.8.2
   - apiVersion: v2
     appVersion: v0.8.1
-    created: "2024-12-17T10:35:05.230247688Z"
+    created: "2024-12-18T10:29:22.9856038Z"
     description: A Helm chart for Accuknox agents
     digest: 2dada48375823e8b9d27226431c1395c73b976a0f1e52c3afbf0b09d041ca1d0
     name: accuknox-agents
@@ -23,7 +33,7 @@ entries:
     version: v0.8.1
   - apiVersion: v2
     appVersion: v0.8.0
-    created: "2024-12-17T10:35:05.228856212Z"
+    created: "2024-12-18T10:29:22.984216696Z"
     description: A Helm chart for Accuknox agents
     digest: 7ca4329ad69852ecd415890013af47bc20983d64a6547a623b933c7cc635e690
     name: accuknox-agents
@@ -33,7 +43,7 @@ entries:
     version: v0.8.0
   - apiVersion: v2
     appVersion: v0.7.9
-    created: "2024-12-17T10:35:05.227364652Z"
+    created: "2024-12-18T10:29:22.982811597Z"
     description: A Helm chart for Accuknox agents
     digest: 3d337dd245caf532168f09ce88690dfc749744459cba4fbc9afc5db3c0907e90
     name: accuknox-agents
@@ -43,7 +53,7 @@ entries:
     version: v0.7.9
   - apiVersion: v2
     appVersion: v0.7.7
-    created: "2024-12-17T10:35:05.22380773Z"
+    created: "2024-12-18T10:29:22.97987562Z"
     description: A Helm chart for Accuknox agents
     digest: a94d78fc91a67b7088f416103f954832d92d5c5b61cf2b30647312a3eee775e6
     name: accuknox-agents
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://agents.accuknox.com/accuknox-agents-v0.7.7.tgz
     version: v0.7.7
-generated: "2024-12-17T10:35:05.221931187Z"
+generated: "2024-12-18T10:29:22.978188167Z"
